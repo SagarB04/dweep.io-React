@@ -1,0 +1,27 @@
+/*footer*/
+.footer{
+    display: flex;
+    background-color: #282828;
+    color: #fff;
+    padding: 3.4% 11%;
+    justify-content: space-between;
+    line-height: 1;
+}
+.foot1,.foot2{
+    font-size: 1rem;
+}
+.foot2{
+    text-align: right;
+}
+i{
+    font-size: 1.5rem;
+    color: #FFCD9E;
+}
+@media (max-width : 800px){
+    .foot1,.foot2{
+        font-size: .9rem;
+    }
+    i{
+        font-size: 1.3rem;
+    }
+}
