@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dweep.io-React/static/css/main.921a8e3a.css",
+    "main.js": "/dweep.io-React/static/js/main.584da76b.js",
+    "static/media/image.png": "/dweep.io-React/static/media/image.f5be85b3638226b936d5.png",
+    "index.html": "/dweep.io-React/index.html",
+    "main.921a8e3a.css.map": "/dweep.io-React/static/css/main.921a8e3a.css.map",
+    "main.584da76b.js.map": "/dweep.io-React/static/js/main.584da76b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.921a8e3a.css",
+    "static/js/main.584da76b.js"
+  ]
+}
